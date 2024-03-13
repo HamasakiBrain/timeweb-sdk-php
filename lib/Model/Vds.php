@@ -376,6 +376,7 @@ class Vds implements ModelInterface, ArrayAccess, \JsonSerializable
 
     public const LOCATION_RU_1 = 'ru-1';
     public const LOCATION_RU_2 = 'ru-2';
+    public const LOCATION_RU_3 = 'ru-3';
     public const LOCATION_PL_1 = 'pl-1';
     public const LOCATION_KZ_1 = 'kz-1';
     public const BOOT_MODE_STD = 'std';
