@@ -59,6 +59,7 @@ class AvailabilityZone
     public const GDN_1 = 'gdn-1';
 
     public const ALA_1 = 'ala-1';
+    public const MSK_1 = 'msk-1';
 
     /**
      * Gets allowable values of the enum
@@ -74,7 +75,8 @@ class AvailabilityZone
             self::NSK_1,
             self::AMS_1,
             self::GDN_1,
-            self::ALA_1
+            self::ALA_1,
+            self::MSK_1
         ];
     }
 }
