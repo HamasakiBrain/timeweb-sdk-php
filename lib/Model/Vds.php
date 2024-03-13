@@ -411,6 +411,7 @@ class Vds implements ModelInterface, ArrayAccess, \JsonSerializable
         return [
             self::LOCATION_RU_1,
             self::LOCATION_RU_2,
+            self::LOCATION_RU_3,
             self::LOCATION_PL_1,
             self::LOCATION_KZ_1,
         ];
